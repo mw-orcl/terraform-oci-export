@@ -216,6 +216,10 @@ You should now be prompted for your DB display and DB password name variables.
 
    
 
+   ## Acknowledgement
+   
+   - **Author** - Milton Wan, Database Product Management, July 2020
+   
    
 
  
